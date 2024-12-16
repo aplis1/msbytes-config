@@ -8,7 +8,7 @@ build:
 loans:
   message: "ABC Bank loans related local APIs"
   contactDetails:
-    name: "Loans Prod - Developer"
+    name: "Loans Prod1 - Developer"
     email: "loansprod@abcbank.com"
   onCallSupport:
     - (555) 555-1234
