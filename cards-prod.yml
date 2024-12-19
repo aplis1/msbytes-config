@@ -1,11 +1,11 @@
 build:
   version: "1.0"
 
-cards:
-  message: "ABC Bank cards related webhookss APIs"
+accounts:
+  message: "Welcome to ABCBank cards related webhooksss APIs "
   contactDetails:
-    name: "Cards WH - Developer"
-    email: "cardsprod@abcbank.com"
+    name: "Cards Production- Product Owner"
+    email: "{cipher}4a416758416c3d15aeb0f15a8b18ec3641dc824d6d2e747ab23a1a785f512641bd688a0742a0ceb04cd22ce7205ebc78"
   onCallSupport:
-    - (555) 555-1234
-    - (555) 523-6758
+    - (453) 392-4829
+    - (236) 203-0384
