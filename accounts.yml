@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to ABCBank accounts related productionn APIs "
+  message: "Welcome to ABCBank accounts related default APIs "
   contactDetails:
     name: "Accounts Develop - Product Owner"
     email: "aishwarya@msbytes.com"
