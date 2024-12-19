@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to ABCBank cards related webhooks 1 APIs "
   contactDetails:
     name: "Cards Production- Product Owner"
