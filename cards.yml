@@ -6,7 +6,7 @@ spring:
   profiles:
     active: "qa"
 cards:
-  message: "ABC Bank cards related local APIs"
+  message: "ABC Bank cards related default APIs"
   contactDetails:
     name: "Cards Developer - Developer"
     email: "cardsdeveloper@abcbank.com"
