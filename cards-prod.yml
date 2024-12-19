@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "ABC Bank cards related webhooks APIs"
+  message: "ABC Bank cards related webhookss APIs"
   contactDetails:
     name: "Cards WH - Developer"
     email: "cardsprod@abcbank.com"
