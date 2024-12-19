@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ABCBank Loans related webhooksss APIs "
+  message: "Welcome to ABCBank Loans related webhooks APIs "
   contactDetails:
     name: "Loans Production- Product Owner"
     email: "{cipher}4a416758416c3d15aeb0f15a8b18ec3641dc824d6d2e747ab23a1a785f512641bd688a0742a0ceb04cd22ce7205ebc78"
